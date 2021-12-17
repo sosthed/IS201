@@ -1,0 +1,28 @@
+body {
+        background-image: url("../images/pretty\ california\ sunset.jpg") ;
+}
+
+.headerandfooter {
+        background-color: #F6E1C5;
+        color:black
+}
+.site-heading-lower {
+        color: black
+}
+.navbar-brand text-uppercase fw-bold d-lg-none{
+        color: black;
+}
+.navlink:hover {
+        color: #E6A756;
+}
+.italics{
+        font-style:italic;
+}
+
+h4{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-weight: lighter;
+}
+
+
+

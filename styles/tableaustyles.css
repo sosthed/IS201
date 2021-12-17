@@ -1,0 +1,60 @@
+
+
+body{
+    background-color: #7F919E;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.common{
+    background-color: #F6E1C5;
+    border: solid 2px white;
+}
+
+.header{
+    top: 10px;
+    right: 10px;
+    left: 10px;
+    height: 100px;
+    text-align: center;
+    font-size: large;
+}
+
+.mainbody{
+    top: 124px;
+    bottom: 124px;
+    left: 10px;
+    right: 10px;
+}
+
+.footer{
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+    height: 65px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    font-weight: bold;
+    color: #E6A756;
+}
+
+.forfun{
+    font-size: 10px;
+}
+
+h5{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.tableauPlaceholder{
+    width: 500px;
+    height: 300px;
+}
